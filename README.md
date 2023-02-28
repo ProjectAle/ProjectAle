@@ -1,6 +1,6 @@
 # Tecnologias que eu uso
 # ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-
+# ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 <!--
 **ProjectAle/ProjectAle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
